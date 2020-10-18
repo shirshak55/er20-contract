@@ -1,5 +1,7 @@
 # ER20 Contract
 
+Screenshots: https://gist.github.com/shirshak55/ec1d53b7d583e51dec816b6b21fc8ba0
+
 Uses Parity Substrate
 
 For react ui visit ui dir.
